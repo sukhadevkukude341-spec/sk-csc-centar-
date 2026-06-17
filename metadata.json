@@ -1,0 +1,6 @@
+{
+  "name": "SK CSC CENTER",
+  "description": "Complete SK CSC Center digital suite with Admin Control, Services Management, Customer Directory, dynamic UPI Receipts, Banner ads, and Notification systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
